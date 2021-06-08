@@ -17,6 +17,7 @@ public class OrderSummaryPageSteps {
 	@And("^place the order$")
 	public void place_the_order() throws Throwable {
 	orderSummaryPage.printSummary(0);
+	System.out.println("OrderSummaryPageSteps");// git
 	}
 
 }

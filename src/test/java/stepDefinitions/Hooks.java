@@ -22,6 +22,7 @@ public class Hooks {
 	 System.out.println("<<<-----------------------------Scenario Starts----------------------------->>>");
 	 System.out.println("Scenario is: "+scenarioName);
 	 System.out.println();
+	 System.out.println("waah");//git
 	 }
 	 
 	 @After
