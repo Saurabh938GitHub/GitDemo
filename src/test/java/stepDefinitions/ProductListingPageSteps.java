@@ -18,6 +18,9 @@ public class ProductListingPageSteps {
 	productListingPage.select_Product(0);
 	productListingPage.clickOn_color();
 	productListingPage.clickOn_size();
-	productListingPage.clickOn_AddToCart(); }
+	productListingPage.clickOn_AddToCart(); 
+	System.out.println("Yes");// git verification
+	System.out.println("No");// git verification
+	}
 
 }
