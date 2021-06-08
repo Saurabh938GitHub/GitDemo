@@ -19,6 +19,7 @@ public class OrderSummaryPageSteps {
 	orderSummaryPage.printSummary(0);
 	System.out.println("OrderSummaryPageSteps");// git
 	System.out.println("OrderSummaryPageSteps2");// git2
+	System.out.println("Develop branch");// git3
 	}
 
 }
