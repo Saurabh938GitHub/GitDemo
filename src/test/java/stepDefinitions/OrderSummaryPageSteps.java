@@ -18,6 +18,7 @@ public class OrderSummaryPageSteps {
 	public void place_the_order() throws Throwable {
 	orderSummaryPage.printSummary(0);
 	System.out.println("OrderSummaryPageSteps");// git
+	System.out.println("OrderSummaryPageSteps2");// git2
 	}
 
 }
